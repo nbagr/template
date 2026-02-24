@@ -1,0 +1,15 @@
+{
+  "name": "template",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "template project",
+  "main": "index.js",
+  "author": "nbagr",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.23"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
